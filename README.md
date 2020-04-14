@@ -27,4 +27,4 @@ Current methods of collaboration allow members to override the contributions of 
 - There is a tab called reference updates, which will list all the updates made to the reference documents
   - Users can either ignore the updates or pull the updates
 - Users can also add notebooks to their library, which is meant for users that would not like to create their own notebook, but are instead interested in the information contained in another author's notebook
-  - This is different than following a notebook, which is meant to show updates to the users in a stream format, which can be pulled into their own notebooks
+  - This is different than following a notebook, which is meant to show updates to the users in a stream format, which can be pulled into their own notebooks 
