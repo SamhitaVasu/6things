@@ -1,7 +1,5 @@
 # 6things - Your Social Notebook
-</br>
 ## 6things has 2 primary use cases: personal understanding and seamless collaboration.
-</br>
 ### Use case 1: Personal Understanding
 You should not be on your own when learning something new, but your notes should be your own. 6things allows people to build their personal understandings "off the shoulders of giants." 
 - Pull items from other notebooks into your own notebook.
@@ -11,7 +9,6 @@ You should not be on your own when learning something new, but your notes should
 Current methods of collaboration allow members to override the contributions of others. With 6things, you are the sole author of your own item, and notebooks can consist of the items of multiple collaborators.
 - Comment on other collaborators' items
 - Items are very small segments of information, ensuring close collaboration
-</br>
 ## 6things terms and specifications
 - Each notebook can have any number of items
 - Notebooks privacy options: public, private, access list, or organization
